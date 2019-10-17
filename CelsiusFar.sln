@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelsiusFar", "CelsiusFar\CelsiusFar.csproj", "{D9A6C1F4-0672-48C9-85AF-83ED7DCC5041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9A6C1F4-0672-48C9-85AF-83ED7DCC5041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A6C1F4-0672-48C9-85AF-83ED7DCC5041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A6C1F4-0672-48C9-85AF-83ED7DCC5041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A6C1F4-0672-48C9-85AF-83ED7DCC5041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FE16402-1597-4D46-8D73-EC7C0DF5DE75}
+	EndGlobalSection
+EndGlobal

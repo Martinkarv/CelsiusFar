@@ -1,0 +1,6 @@
+C:\Users\karvm\source\repos\CelsiusFar\CelsiusFar\bin\Debug\CelsiusFar.exe.config
+C:\Users\karvm\source\repos\CelsiusFar\CelsiusFar\bin\Debug\CelsiusFar.exe
+C:\Users\karvm\source\repos\CelsiusFar\CelsiusFar\bin\Debug\CelsiusFar.pdb
+C:\Users\karvm\source\repos\CelsiusFar\CelsiusFar\obj\Debug\CelsiusFar.csprojAssemblyReference.cache
+C:\Users\karvm\source\repos\CelsiusFar\CelsiusFar\obj\Debug\CelsiusFar.exe
+C:\Users\karvm\source\repos\CelsiusFar\CelsiusFar\obj\Debug\CelsiusFar.pdb
